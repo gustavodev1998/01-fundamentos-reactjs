@@ -1,0 +1,12 @@
+Figma - Selecionar Item1, segura Alt e direciona o rato para o Item2.
+
+Icons - npm i phosphor-react
+
+
+Componentes
+
+1º - Quando se criar componentes ?
+    R: Quando um elemento se repete várias vezes na tela
+
+1º - Quando se criar componentes ?
+    R: Quando um elemento se repete várias vezes na tela    
