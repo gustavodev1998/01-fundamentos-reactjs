@@ -2,7 +2,7 @@
 ## :book: 01-fundamentos-reactjs
 
 <br><div align="center">
-<img alt="" title="" src="" width="1200px" />
+<img alt="" title="" src="https://github.com/gustavodev1998/01-fundamentos-reactjs/blob/main/public/layout.png?raw=true" width="1200px" />
 
 </div>
 
@@ -16,7 +16,7 @@ This project was developed using the following technologies:
 
 - [React](https://pt-br.reactjs.org/)
 - [Vite](https://vitejs.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Javascript](https://js.org/)
 
 
 ```bash
@@ -30,7 +30,7 @@ $ npm install
 # Run the application in development mode
 $ npm run dev
 
-# Server will start on port:3000 - go to <http://localhost:3000>
+# Server will start on port:3001 - go to <http://localhost:3001>
 
 ```
 
