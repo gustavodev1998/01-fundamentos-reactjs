@@ -10,3 +10,7 @@ Componentes
 
 1º - Quando se criar componentes ?
     R: Quando um elemento se repete várias vezes na tela    
+
+
+Biblioteca para trabalhar com datas:
+npm i date-fns    
