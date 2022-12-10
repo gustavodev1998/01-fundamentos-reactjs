@@ -34,6 +34,9 @@ $ npm run dev
 
 ```
 
+## :link: Vercel
+To check it out acess: <a target="_blank" href="https://01-fundamentos-reactjs-mocha.vercel.app/">Web site</a>
+
 ## 🔖 Layout
 
 You can check the project layout here [link](<https://www.figma.com/file/4fJN175PsnakAZ0pwKndO1/Ignite-Feed-(Community)>). Just remember you will need an account on [Figma](http://figma.com/).
